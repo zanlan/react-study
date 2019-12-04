@@ -1,6 +1,5 @@
 import React from 'react';
-import 'antd-mobile/dist/antd-mobile.css';
-import './App.css';
+import 'antd-mobile/dist/antd-mobile.css';//node_modules文件下的包文件地址
 import { MainRoute } from "@/scripts";
 
 function App() {

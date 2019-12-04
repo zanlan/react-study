@@ -1,6 +1,7 @@
 
 .boss{
   border: 10px solid red;
+  height: 100px;
 }
 .box{
   border: 20px solid blue;

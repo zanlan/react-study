@@ -1,7 +1,7 @@
 
 
 
-import {createStore} from "../../node_modules/_redux@4.0.4@redux";
+import {createStore} from "redux";
 import { reducers } from "./reducers";
 
 const store = createStore(reducers);
